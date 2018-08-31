@@ -3,9 +3,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.adi"
-        versionCode = "3530"
-        android-versionCode="3530"
-        version   = "3.5.3">
+        versionCode = "3540"
+        android-versionCode="3540"
+        version   = "3.5.4">
     <name>Campus ADIMRA</name>
 
     <description>
@@ -15,7 +15,7 @@
    <author href="http://entornos.net" email="info@entornos.com.ar">Entornos Educativos</author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>3.5.3</string>
+        <string>3.5.4</string>
     </edit-config>
 
     <gap:platform name="ios" />
