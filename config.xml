@@ -3,9 +3,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.adi"
-        versionCode = "3510"
-        android-versionCode="3510"
-        version   = "3.5.1">
+        versionCode = "3520"
+        android-versionCode="3520"
+        version   = "3.5.2">
     <name>Campus ADIMRA</name>
 
     <description>
@@ -15,7 +15,7 @@
    <author href="http://entornos.net" email="info@entornos.com.ar">Entornos Educativos</author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>3.5.1</string>
+        <string>3.5.2</string>
     </edit-config>
 
     <gap:platform name="ios" />
@@ -47,8 +47,8 @@
     <preference name="prerendered-icon" value="true" />
     <preference name="load-url-timeout" value="60000" />
     <preference name="AppendUserAgent" value="MoodleMobile" />
-    <preference name="android-minSdkVersion" value="19" />
-    <preference name="android-targetSdkVersion" value="19" />
+    <preference name="android-minSdkVersion" value="27" />
+    <preference name="android-targetSdkVersion" value="27" />
     <preference name="android-installLocation" value="auto" />
     <preference name="UIWebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />
