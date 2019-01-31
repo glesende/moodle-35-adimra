@@ -3,19 +3,19 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.adi"
-        versionCode = "3550"
-        android-versionCode="3550"
-        version   = "3.5.5">
-    <name>Campus ADIMRA</name>
+        versionCode = "3560"
+        android-versionCode="3560"
+        version   = "3.5.6">
+    <name>Campus IAEA</name>
 
     <description>
-      Campus virtual de ADIMRA
+      Campus virtual IAEA
     </description>
 
    <author href="http://entornos.net" email="info@entornos.com.ar">Entornos Educativos</author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>3.5.5</string>
+        <string>3.5.6</string>
     </edit-config>
 
     <gap:platform name="ios" />
